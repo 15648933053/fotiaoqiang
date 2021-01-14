@@ -1,6 +1,6 @@
 
 ## 各个平台安装包下载
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.0/fotiaoqiang-v2.4.0-1.apk"> Android </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.1/fotiaoqiang-v2.4.1-1.apk"> Android </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.0/fotiaoqiang-2.4.0-1-Setup.exe"> Windows </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.4.0/v240-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS </a>
 - IOS 敬请期待
