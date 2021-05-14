@@ -12,7 +12,7 @@
 - <a href="https://s3.amazonaws.com/fotiaoqiang/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/fotiaoqiang/releases/download/V2.6.2/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址3 </a>
-- <a href="https://www.fendouxiaqu.com/download/ios/"> IOS </a> 
+- <a href="https://www.reqingxiaqu.com/download/ios/"> IOS </a> 
 
 ## 备注：请务必收藏本页面，方便日后下载新版本（本页面为官方唯一防封下载发布页）Remarks: Please be sure to bookmark this page so that you can download new versions in the future (this page is the only official anti-blocking download release page)
 
