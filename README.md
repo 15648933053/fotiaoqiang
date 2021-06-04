@@ -4,10 +4,10 @@
 - <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/fotiaoqiang/releases/download/V2.6.5/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址3 </a>
-- <a href="https://getfotiaoqiang.cf/downloads/2.7.0/fotiaoqiang-2.7.0-1-Setup.exe"> Windows </a>
-- <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-2.7.0-1-Setup.exe"> Windows备用下载地址 </a>
-- <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-2.7.0-1-Setup.exe"> Windows备用下载地址2 </a>
-- <a href="https://github.com/getfotiaoqiang/fotiaoqiang/releases/download/V2.7.0/fotiaoqiang-2.7.0-1-Setup.exe"> Windows备用下载地址3 </a>
+- <a href="https://getfotiaoqiang.cf/downloads/2.7.0/fotiaoqiang-2.6.2-1-Setup.exe"> Windows </a>
+- <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址 </a>
+- <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址2 </a>
+- <a href="https://github.com/getfotiaoqiang/fotiaoqiang/releases/download/V2.6.2/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址3 </a>
 - <a href="https://getfotiaoqiang.cf/downloads/2.6.2/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS </a>
 - <a href="https://s3.amazonaws.com/fotiaoqiang/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址2 </a>
