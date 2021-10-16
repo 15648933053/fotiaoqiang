@@ -1,3 +1,4 @@
+Moved to https://github.com/getfotiaoqiang/download
 
 ## 各个平台安装包下载
 - <a href="https://getfotiaoqiang.cf/downloads/2.7.9/fotiaoqiang-v2.7.9-1.apk"> Android </a>
