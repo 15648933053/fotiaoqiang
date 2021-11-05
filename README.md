@@ -1,9 +1,9 @@
 Moved to https://github.com/getfotiaoqiang/download
 
 ## 各个平台安装包下载
-- <a href="https://getfotiaoqiang.cf/downloads/2.7.12/fotiaoqiang-v2.7.12-1.apk"> Android </a>
-- <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-v2.7.11-1.apk"> Android备用下载地址 </a>
-- <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-v2.7.11-1.apk"> Android备用下载地址2 </a>
+- <a href="https://getfotiaoqiang.cf/downloads/2.7.12/ftq-v2.7.12-1.apk"> Android </a>
+- <a href="https://s3.amazonaws.com/fotiaoqiang/ftq-v2.7.12-1.apk"> Android备用下载地址 </a>
+- <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/ftq-v2.7.12-1.apk"> Android备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/fotiaoqiang/releases/download/V2.7.11/fotiaoqiang-v2.7.11-1.apk"> Android备用下载地址3 </a>
 - <a href="https://getfotiaoqiang.cf/downloads/2.7.9/fotiaoqiang-2.7.9-1-Setup.exe"> Windows </a>
 - <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-2.7.9-1-Setup.exe"> Windows备用下载地址 </a>
